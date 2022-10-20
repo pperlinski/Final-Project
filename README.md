@@ -15,7 +15,9 @@ Availibility of data, ease and high potential for interesting graphs and visuali
 Raw data comes from National Highway Traffic Safety Administration data tables. Data was downoladed for 50 states. A total of 150 .csv files were downladed and then combined into 3 .csv files using terminal and the following commnand "*.csv >combine.csv". The combined CSV files were then cleaned using excel, duplicate entries were removed from the cleaned files. 
 
 [Performance_measure.csv](https://github.com/pperlinski/Final-Project/blob/main/Performance_measure.csv)
+
 [STSI Combined.csv](https://github.com/pperlinski/Final-Project/blob/main/STSI%20Combined%20.csv)
+
 [Table 1 Combined.csv](https://github.com/pperlinski/Final-Project/blob/main/Table%201%20Combined.csv)
 
 

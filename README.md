@@ -33,4 +33,7 @@ Raw data comes from National Highway Traffic Safety Administration data tables. 
 We will like to develop a model that predicts trends involving vehicle fatalities across all 50 states. 
 
 ### Database
-SQL Postgres.
+
+SQL and Postgres will be used to construct the database. The ERD below shows a draft of the database structure. 
+
+![QuickDBD-export(1).png](https://github.com/pperlinski/Final-Project/blob/main/QuickDBD-export%20(1).png)

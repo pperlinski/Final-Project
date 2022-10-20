@@ -14,7 +14,7 @@ Availibility of data, ease and high potential for interesting graphs and visuali
 
 ### Description of Data source
 
-Raw data comes from National Highway Traffic Safety Administration data tables. Data was downoladed for 50 states. A total of 150 .csv files were downladed and then combined into 3 .csv files using terminal and the following command "*.csv >combine.csv". The combined CSV files were then cleaned using Excel, duplicate entries were removed from the cleaned files. 
+Raw data comes from National Highway Traffic Safety Administration data tables. Data was downloaded for 50 states. A total of 150 .csv files were downloaded and then combined into 3 .csv files using terminal and the following command "*.csv >combine.csv". The combined CSV files were then cleaned using Excel, duplicate entries were removed from the cleaned files. 
 
 [Performance_measure.csv](https://github.com/pperlinski/Final-Project/blob/main/Performance_measure.csv)
 

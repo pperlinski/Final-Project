@@ -6,6 +6,8 @@
 
 Our topic is an analysis of DUI and accident data.
 
+### Communication Protocol
+
 ### Reason why topic was selected 
 
 Availibility of data, ease and high potential for interesting graphs and visualiziations, finding a common ground topic between CDC health data and consumer automotive data that we were interested in.

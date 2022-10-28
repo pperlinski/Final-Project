@@ -1,4 +1,4 @@
-State,Coure Outcome ,Measure ,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+States,Coure_Outcome ,Measure ,YEAR_2011,YEAR_2012,YEAR_2013,YEAR_2014,YEAR_2015,YEAR_2016,YEAR_2017,YEAR_2018,YEAR_2019,YEAR_2020
 Alabama,Traffic Fatalities,Total (C-1),895,865,853,820,850,1083,948,953,930,934
 Alabama,Traffic Fatalities,Rural,515,510,562,544,590,803,585,541,535,518
 Alabama,Traffic Fatalities,Urban,378,351,285,274,260,280,363,412,395,415
@@ -25,32 +25,32 @@ Alabama,Drivers Involved in Fatal Crashes,Unknown Age,8,13,7,15,21,12,20,21,20,2
 Alabama,Pedestrian Fatalities (C-10),,79,77,59,96,98,120,119,107,119,101
 Alabama,Bicyclist and Other Cyclist Fatalities**** (C-11),,5,9,6,9,9,3,7,9,6,10
 Alabama,Observed Seat Belt Use*** (B-1),,88,90,97,96,93,92,93,92,92,92
-Alaska ,Traffic Fatalities,Total (C-1),72,59,51,73,65,84,79,80,67,64
-Alaska ,Traffic Fatalities,Rural,46,39,33,42,33,53,45,41,37,38
-Alaska ,Traffic Fatalities,Urban,26,20,18,31,31,30,33,39,29,26
-Alaska ,Traffic Fatalities,Unknown,0,0,0,0,1,1,1,0,1,0
-Alaska ,Fatalities Per 100 Million VMT,Total (C-3),1.57,1.23,1.05,1.5,1.29,1.6,1.43,1.46,1.14,1.21
-Alaska ,Fatalities Per 100 Million VMT,Rural,2.12,1.7,1.42,2.08,1.55,2.37,1.94,1.8,1.43,1.53
-Alaska ,Fatalities Per 100 Million VMT,Urban,1.07,0.8,0.71,1.09,1.06,0.99,1.03,1.21,0.88,0.92
-Alaska ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,47,39,27,42,37,58,47,45,48,39
-Alaska ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,14,17,13,12,14,17,24,20,18,18
-Alaska ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),26,19,12,21,15,37,17,20,22,14
-Alaska ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,7,3,2,9,8,4,6,5,8,7
-Alaska ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,21,15,16,22,22,31,23,27,21,14
-Alaska ,Speeding-Related Fatalities (C-6),,26,14,22,18,22,36,26,42,29,23
-Alaska ,Motorcyclist Fatalities,Total (C-7),10,9,9,8,11,6,6,12,6,4
-Alaska ,Motorcyclist Fatalities,Helmeted,9,4,7,5,6,4,3,6,4,2
-Alaska ,Motorcyclist Fatalities,Unhelmeted (C-8),1,5,2,3,4,2,3,5,2,2
-Alaska ,,Unknown,0,0,0,0,1,0,0,1,0,0
-Alaska ,Drivers Involved in Fatal Crashes,Total,91,83,66,101,88,108,103,104,89,80
-Alaska ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,0,0,1,1,1,0,1
-Alaska ,Drivers Involved in Fatal Crashes,Aged 15-20,10,7,7,11,6,15,5,7,10,9
-Alaska ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),10,7,8,11,6,16,6,8,10,10
-Alaska ,Drivers Involved in Fatal Crashes,Aged 21 and Over,80,76,58,89,80,89,97,94,79,68
-Alaska ,Drivers Involved in Fatal Crashes,Unknown Age,1,0,0,1,2,3,0,2,0,2
-Alaska ,Pedestrian Fatalities (C-10),,9,8,6,14,12,12,14,14,6,13
-Alaska ,Bicyclist and Other Cyclist Fatalities**** (C-11),,2,1,1,3,0,1,1,0,2,2
-Alaska ,Observed Seat Belt Use*** (B-1),,89,88,86,88,89,89,90,92,94,94
+Alaska,Traffic Fatalities,Total (C-1),72,59,51,73,65,84,79,80,67,64
+Alaska,Traffic Fatalities,Rural,46,39,33,42,33,53,45,41,37,38
+Alaska,Traffic Fatalities,Urban,26,20,18,31,31,30,33,39,29,26
+Alaska,Traffic Fatalities,Unknown,0,0,0,0,1,1,1,0,1,0
+Alaska,Fatalities Per 100 Million VMT,Total (C-3),1.57,1.23,1.05,1.5,1.29,1.6,1.43,1.46,1.14,1.21
+Alaska,Fatalities Per 100 Million VMT,Rural,2.12,1.7,1.42,2.08,1.55,2.37,1.94,1.8,1.43,1.53
+Alaska,Fatalities Per 100 Million VMT,Urban,1.07,0.8,0.71,1.09,1.06,0.99,1.03,1.21,0.88,0.92
+Alaska,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,47,39,27,42,37,58,47,45,48,39
+Alaska,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,14,17,13,12,14,17,24,20,18,18
+Alaska,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),26,19,12,21,15,37,17,20,22,14
+Alaska,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,7,3,2,9,8,4,6,5,8,7
+Alaska,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,21,15,16,22,22,31,23,27,21,14
+Alaska,Speeding-Related Fatalities (C-6),,26,14,22,18,22,36,26,42,29,23
+Alaska,Motorcyclist Fatalities,Total (C-7),10,9,9,8,11,6,6,12,6,4
+Alaska,Motorcyclist Fatalities,Helmeted,9,4,7,5,6,4,3,6,4,2
+Alaska,Motorcyclist Fatalities,Unhelmeted (C-8),1,5,2,3,4,2,3,5,2,2
+Alaska,,Unknown,0,0,0,0,1,0,0,1,0,0
+Alaska,Drivers Involved in Fatal Crashes,Total,91,83,66,101,88,108,103,104,89,80
+Alaska,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,0,0,1,1,1,0,1
+Alaska,Drivers Involved in Fatal Crashes,Aged 15-20,10,7,7,11,6,15,5,7,10,9
+Alaska,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),10,7,8,11,6,16,6,8,10,10
+Alaska,Drivers Involved in Fatal Crashes,Aged 21 and Over,80,76,58,89,80,89,97,94,79,68
+Alaska,Drivers Involved in Fatal Crashes,Unknown Age,1,0,0,1,2,3,0,2,0,2
+Alaska,Pedestrian Fatalities (C-10),,9,8,6,14,12,12,14,14,6,13
+Alaska,Bicyclist and Other Cyclist Fatalities**** (C-11),,2,1,1,3,0,1,1,0,2,2
+Alaska,Observed Seat Belt Use*** (B-1),,89,88,86,88,89,89,90,92,94,94
 Arizona,Traffic Fatalities,Total (C-1),826,821,849,773,897,952,998,1011,979,1054
 Arizona,Traffic Fatalities,Rural,384,375,337,289,343,335,360,320,356,343
 Arizona,Traffic Fatalities,Urban,439,444,509,482,550,612,637,677,604,652
@@ -117,18 +117,18 @@ California,Drivers Involved in Fatal Crashes,Unknown Age,138,124,156,157,167,207
 California,Pedestrian Fatalities (C-10),,633,653,734,709,819,933,940,978,1011,986
 California,Bicyclist and Other Cyclist Fatalities**** (C-11),,116,129,147,129,136,155,145,165,143,129
 California,Observed Seat Belt Use*** (B-1),,97,96,97,97,97,97,96,96,96,96
-California ,Traffic Fatalities,Total (C-1),2816,2966,3107,3102,3387,3837,3884,3798,3719,3847
-California ,Traffic Fatalities,Rural,1190,1200,1201,1170,1404,1593,1423,1085,1141,1175
-California ,Traffic Fatalities,Urban,1626,1766,1906,1931,1982,2244,2458,2712,2571,2666
-California ,Traffic Fatalities,Unknown,0,0,0,1,1,0,3,1,7,6
-California ,Fatalities Per 100 Million VMT,Total (C-3),0.88,0.91,0.94,0.93,1.01,1.13,1.13,1.09,1.09,1.28
-California ,Fatalities Per 100 Million VMT,Rural,2.11,2.09,2.32,2.23,2.62,3.01,2.6,1.86,2.02,2.12
-California ,Fatalities Per 100 Million VMT,Urban,0.61,0.66,0.69,0.69,0.7,0.78,0.85,0.93,0.9,1.09
-California ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,1558,1623,1657,1631,1849,2030,2093,2023,1944,2061
-California ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,930,1028,1014,1000,1119,1268,1288,1223,1150,1105
-California ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),528,496,516,479,568,611,625,635,634,756
-California ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,100,99,127,152,162,151,180,165,160,200
-California ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,774,829,880,876,902,1114,1141,1116,966,1159
+California,Traffic Fatalities,Total (C-1),2816,2966,3107,3102,3387,3837,3884,3798,3719,3847
+California,Traffic Fatalities,Rural,1190,1200,1201,1170,1404,1593,1423,1085,1141,1175
+California,Traffic Fatalities,Urban,1626,1766,1906,1931,1982,2244,2458,2712,2571,2666
+California,Traffic Fatalities,Unknown,0,0,0,1,1,0,3,1,7,6
+California,Fatalities Per 100 Million VMT,Total (C-3),0.88,0.91,0.94,0.93,1.01,1.13,1.13,1.09,1.09,1.28
+California,Fatalities Per 100 Million VMT,Rural,2.11,2.09,2.32,2.23,2.62,3.01,2.6,1.86,2.02,2.12
+California,Fatalities Per 100 Million VMT,Urban,0.61,0.66,0.69,0.69,0.7,0.78,0.85,0.93,0.9,1.09
+California,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,1558,1623,1657,1631,1849,2030,2093,2023,1944,2061
+California,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,930,1028,1014,1000,1119,1268,1288,1223,1150,1105
+California,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),528,496,516,479,568,611,625,635,634,756
+California,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,100,99,127,152,162,151,180,165,160,200
+California,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,774,829,880,876,902,1114,1141,1116,966,1159
 Colorado,Traffic Fatalities,Total (C-1),447,474,482,488,547,608,648,632,597,622
 Colorado,Traffic Fatalities,Rural,227,233,244,228,260,266,277,259,242,236
 Colorado,Traffic Fatalities,Urban,220,241,238,260,285,342,369,373,352,385
@@ -233,32 +233,32 @@ Florida,Drivers Involved in Fatal Crashes,Unknown Age,73,92,76,104,130,146,145,1
 Florida,Pedestrian Fatalities (C-10),,490,477,499,588,629,653,654,706,714,696
 Florida,Bicyclist and Other Cyclist Fatalities**** (C-11),,126,124,133,139,150,139,125,161,161,170
 Florida,Observed Seat Belt Use*** (B-1),,88,87,87,89,89,90,90,91,90,90
-Georgia ,Traffic Fatalities,Total (C-1),1226,1192,1180,1164,1432,1556,1540,1505,1492,1664
-Georgia ,Traffic Fatalities,Rural,627,589,557,462,565,603,594,508,520,647
-Georgia ,Traffic Fatalities,Urban,579,603,621,702,867,953,946,997,972,1014
-Georgia ,Traffic Fatalities,Unknown,20,0,2,0,0,0,0,0,0,3
-Georgia ,Fatalities Per 100 Million VMT,Total (C-3),1.13,1.11,1.08,1.04,1.21,1.27,1.23,1.14,1.12,1.43
-Georgia ,Fatalities Per 100 Million VMT,Rural,1.73,1.68,2.18,1.79,1.98,2.01,2,1.55,1.63,2.23
-Georgia ,Fatalities Per 100 Million VMT,Urban,0.8,0.83,0.74,0.82,0.97,1.03,1,1.01,0.96,1.17
-Georgia ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,878,829,812,795,1008,1047,1056,994,990,1072
-Georgia ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,389,394,350,376,488,484,488,448,514,505
-Georgia ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),422,368,377,363,411,472,464,441,385,465
-Georgia ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,67,67,85,56,109,91,104,105,91,102
-Georgia ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,271,295,296,279,358,378,357,379,355,402
-Georgia ,Speeding-Related Fatalities (C-6),,220,180,197,213,268,266,248,268,260,380
-Georgia ,Motorcyclist Fatalities,Total (C-7),150,134,116,137,152,172,139,154,170,192
-Georgia ,Motorcyclist Fatalities,Helmeted,133,125,107,124,138,154,119,134,151,167
-Georgia ,Motorcyclist Fatalities,Unhelmeted (C-8),15,8,5,8,10,9,18,16,15,18
-Georgia ,Motorcyclist Fatalities,Unknown,2,1,4,5,4,9,2,4,4,7
-Georgia ,Drivers Involved in Fatal Crashes,Total,1689,1676,1621,1622,2043,2154,2283,2149,2184,2365
-Georgia ,Drivers Involved in Fatal Crashes,Aged Under 15,6,4,0,4,3,6,6,0,3,4
-Georgia ,Drivers Involved in Fatal Crashes,Aged 15-20,159,154,156,145,165,182,188,192,169,206
-Georgia ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),165,158,156,149,168,188,194,192,172,210
-Georgia ,Drivers Involved in Fatal Crashes,Aged 21 and Over,1495,1499,1442,1448,1838,1925,2067,1908,1955,2101
-Georgia ,Drivers Involved in Fatal Crashes,Unknown Age,29,19,23,25,37,41,22,49,57,54
-Georgia ,Pedestrian Fatalities (C-10),,130,167,176,163,194,232,253,262,236,279
-Georgia ,Bicyclist and Other Cyclist Fatalities**** (C-11),,14,17,28,19,23,29,15,30,21,32
-Georgia ,Observed Seat Belt Use*** (B-1),,93,92,96,97,97,97,97,96,96,96
+Georgia,Traffic Fatalities,Total (C-1),1226,1192,1180,1164,1432,1556,1540,1505,1492,1664
+Georgia,Traffic Fatalities,Rural,627,589,557,462,565,603,594,508,520,647
+Georgia,Traffic Fatalities,Urban,579,603,621,702,867,953,946,997,972,1014
+Georgia,Traffic Fatalities,Unknown,20,0,2,0,0,0,0,0,0,3
+Georgia,Fatalities Per 100 Million VMT,Total (C-3),1.13,1.11,1.08,1.04,1.21,1.27,1.23,1.14,1.12,1.43
+Georgia,Fatalities Per 100 Million VMT,Rural,1.73,1.68,2.18,1.79,1.98,2.01,2,1.55,1.63,2.23
+Georgia,Fatalities Per 100 Million VMT,Urban,0.8,0.83,0.74,0.82,0.97,1.03,1,1.01,0.96,1.17
+Georgia,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,878,829,812,795,1008,1047,1056,994,990,1072
+Georgia,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,389,394,350,376,488,484,488,448,514,505
+Georgia,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),422,368,377,363,411,472,464,441,385,465
+Georgia,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,67,67,85,56,109,91,104,105,91,102
+Georgia,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,271,295,296,279,358,378,357,379,355,402
+Georgia,Speeding-Related Fatalities (C-6),,220,180,197,213,268,266,248,268,260,380
+Georgia,Motorcyclist Fatalities,Total (C-7),150,134,116,137,152,172,139,154,170,192
+Georgia,Motorcyclist Fatalities,Helmeted,133,125,107,124,138,154,119,134,151,167
+Georgia,Motorcyclist Fatalities,Unhelmeted (C-8),15,8,5,8,10,9,18,16,15,18
+Georgia,Motorcyclist Fatalities,Unknown,2,1,4,5,4,9,2,4,4,7
+Georgia,Drivers Involved in Fatal Crashes,Total,1689,1676,1621,1622,2043,2154,2283,2149,2184,2365
+Georgia,Drivers Involved in Fatal Crashes,Aged Under 15,6,4,0,4,3,6,6,0,3,4
+Georgia,Drivers Involved in Fatal Crashes,Aged 15-20,159,154,156,145,165,182,188,192,169,206
+Georgia,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),165,158,156,149,168,188,194,192,172,210
+Georgia,Drivers Involved in Fatal Crashes,Aged 21 and Over,1495,1499,1442,1448,1838,1925,2067,1908,1955,2101
+Georgia,Drivers Involved in Fatal Crashes,Unknown Age,29,19,23,25,37,41,22,49,57,54
+Georgia,Pedestrian Fatalities (C-10),,130,167,176,163,194,232,253,262,236,279
+Georgia,Bicyclist and Other Cyclist Fatalities**** (C-11),,14,17,28,19,23,29,15,30,21,32
+Georgia,Observed Seat Belt Use*** (B-1),,93,92,96,97,97,97,97,96,96,96
 Hawaii,Traffic Fatalities,Total (C-1),100,125,102,95,93,120,107,117,108,85
 Hawaii,Traffic Fatalities,Rural,42,56,40,30,13,25,25,26,21,9
 Hawaii,Traffic Fatalities,Urban,58,69,62,65,80,94,82,91,86,76
@@ -285,32 +285,32 @@ Hawaii,Drivers Involved in Fatal Crashes,Unknown Age,5,3,5,2,0,5,1,4,7,3
 Hawaii,Pedestrian Fatalities (C-10),,23,26,23,24,25,29,14,42,36,21
 Hawaii,Bicyclist and Other Cyclist Fatalities**** (C-11),,2,2,2,4,2,0,6,2,4,4
 Hawaii,Observed Seat Belt Use*** (B-1),,96,93,94,94,93,95,97,98,97,97
-Idaho ,Traffic Fatalities,Total (C-1),167,184,214,186,216,253,245,234,224,214
-Idaho ,Traffic Fatalities,Rural,136,152,175,151,178,194,183,170,169,167
-Idaho ,Traffic Fatalities,Urban,31,32,39,35,38,47,62,64,54,47
-Idaho ,Traffic Fatalities,Unknown,0,0,0,0,0,12,0,0,1,0
-Idaho ,Fatalities Per 100 Million VMT,Total (C-3),1.05,1.13,1.34,1.15,1.3,1.47,1.42,1.32,1.24,1.23
-Idaho ,Fatalities Per 100 Million VMT,Rural,1.47,1.6,1.88,1.61,1.87,1.96,1.84,1.67,1.67,1.67
-Idaho ,Fatalities Per 100 Million VMT,Urban,0.46,0.47,0.58,0.52,0.53,0.64,0.84,0.85,0.68,0.64
-Idaho ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,126,135,160,130,163,191,177,152,166,156
-Idaho ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,46,59,54,61,63,67,63,59,76,56
-Idaho ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),72,72,98,68,94,114,95,80,81,85
-Idaho ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,8,4,8,1,6,10,19,13,9,15
-Idaho ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,50,52,57,53,71,75,64,56,69,61
-Idaho ,Speeding-Related Fatalities (C-6),,45,61,50,48,49,54,48,47,48,62
-Idaho ,Motorcyclist Fatalities,Total (C-7),17,22,25,25,28,22,27,38,25,27
-Idaho ,Motorcyclist Fatalities,Helmeted,8,12,12,9,10,7,10,17,15,10
-Idaho ,Motorcyclist Fatalities,Unhelmeted (C-8),9,10,12,15,18,14,17,21,10,16
-Idaho ,Motorcyclist Fatalities,Unknown,0,0,1,1,0,1,0,0,0,1
-Idaho ,Drivers Involved in Fatal Crashes,Total,214,244,273,231,280,321,327,320,305,299
-Idaho ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,2,1,1,3,0,0,1
-Idaho ,Drivers Involved in Fatal Crashes,Aged 15-20,34,17,31,25,37,29,32,42,27,32
-Idaho ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),34,17,32,27,38,30,35,42,27,33
-Idaho ,Drivers Involved in Fatal Crashes,Aged 21 and Over,179,227,241,204,242,288,290,277,278,266
-Idaho ,Drivers Involved in Fatal Crashes,Unknown Age,1,0,0,0,0,3,2,1,0,0
-Idaho ,Pedestrian Fatalities (C-10),,9,13,14,13,8,17,15,17,12,14
-Idaho ,Bicyclist and Other Cyclist Fatalities**** (C-11),,0,2,3,2,0,6,2,2,4,3
-Idaho ,Observed Seat Belt Use*** (B-1),,79,79,82,80,81,83,81,85,86,86
+Idaho,Traffic Fatalities,Total (C-1),167,184,214,186,216,253,245,234,224,214
+Idaho,Traffic Fatalities,Rural,136,152,175,151,178,194,183,170,169,167
+Idaho,Traffic Fatalities,Urban,31,32,39,35,38,47,62,64,54,47
+Idaho,Traffic Fatalities,Unknown,0,0,0,0,0,12,0,0,1,0
+Idaho,Fatalities Per 100 Million VMT,Total (C-3),1.05,1.13,1.34,1.15,1.3,1.47,1.42,1.32,1.24,1.23
+Idaho,Fatalities Per 100 Million VMT,Rural,1.47,1.6,1.88,1.61,1.87,1.96,1.84,1.67,1.67,1.67
+Idaho,Fatalities Per 100 Million VMT,Urban,0.46,0.47,0.58,0.52,0.53,0.64,0.84,0.85,0.68,0.64
+Idaho,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,126,135,160,130,163,191,177,152,166,156
+Idaho,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,46,59,54,61,63,67,63,59,76,56
+Idaho,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),72,72,98,68,94,114,95,80,81,85
+Idaho,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,8,4,8,1,6,10,19,13,9,15
+Idaho,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,50,52,57,53,71,75,64,56,69,61
+Idaho,Speeding-Related Fatalities (C-6),,45,61,50,48,49,54,48,47,48,62
+Idaho,Motorcyclist Fatalities,Total (C-7),17,22,25,25,28,22,27,38,25,27
+Idaho,Motorcyclist Fatalities,Helmeted,8,12,12,9,10,7,10,17,15,10
+Idaho,Motorcyclist Fatalities,Unhelmeted (C-8),9,10,12,15,18,14,17,21,10,16
+Idaho,Motorcyclist Fatalities,Unknown,0,0,1,1,0,1,0,0,0,1
+Idaho,Drivers Involved in Fatal Crashes,Total,214,244,273,231,280,321,327,320,305,299
+Idaho,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,2,1,1,3,0,0,1
+Idaho,Drivers Involved in Fatal Crashes,Aged 15-20,34,17,31,25,37,29,32,42,27,32
+Idaho,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),34,17,32,27,38,30,35,42,27,33
+Idaho,Drivers Involved in Fatal Crashes,Aged 21 and Over,179,227,241,204,242,288,290,277,278,266
+Idaho,Drivers Involved in Fatal Crashes,Unknown Age,1,0,0,0,0,3,2,1,0,0
+Idaho,Pedestrian Fatalities (C-10),,9,13,14,13,8,17,15,17,12,14
+Idaho,Bicyclist and Other Cyclist Fatalities**** (C-11),,0,2,3,2,0,6,2,2,4,3
+Idaho,Observed Seat Belt Use*** (B-1),,79,79,82,80,81,83,81,85,86,86
 Illinois,Traffic Fatalities,Total (C-1),918,956,991,924,998,1078,1090,1035,1009,1194
 Illinois,Traffic Fatalities,Rural,398,395,411,417,419,437,399,386,357,355
 Illinois,Traffic Fatalities,Urban,520,561,580,506,579,639,688,649,646,812
@@ -363,32 +363,32 @@ Indiana,Drivers Involved in Fatal Crashes,Unknown Age,15,16,12,22,21,27,22,13,21
 Indiana,Pedestrian Fatalities (C-10),,62,59,76,78,96,87,101,114,73,93
 Indiana,Bicyclist and Other Cyclist Fatalities**** (C-11),,11,15,14,12,12,19,13,22,16,20
 Indiana,Observed Seat Belt Use*** (B-1),,93,94,92,90,92,92,93,93,95,95
-Iowa ,Traffic Fatalities,Total (C-1),360,365,317,322,320,402,330,319,336,337
-Iowa ,Traffic Fatalities,Rural,300,286,256,255,230,306,254,255,244,239
-Iowa ,Traffic Fatalities,Urban,60,79,61,67,90,96,76,64,92,98
-Iowa ,Traffic Fatalities,Unknown,0,0,0,0,0,0,0,0,0,0
-Iowa ,Fatalities Per 100 Million VMT,Total (C-3),1.15,1.16,1,1.03,0.96,1.21,0.99,0.96,1,1.13
-Iowa ,Fatalities Per 100 Million VMT,Rural,1.58,1.5,1.41,1.38,1.19,1.56,1.28,1.29,1.22,1.34
-Iowa ,Fatalities Per 100 Million VMT,Urban,0.49,0.63,0.45,0.52,0.65,0.7,0.56,0.47,0.68,0.83
-Iowa ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,265,256,237,220,236,290,220,224,237,205
-Iowa ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,113,119,108,109,123,153,97,121,125,91
-Iowa ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),120,112,102,89,101,109,97,78,93,91
-Iowa ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,32,25,27,22,12,28,26,25,19,23
-Iowa ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,83,96,101,91,78,108,90,90,102,113
-Iowa ,Speeding-Related Fatalities (C-6),,64,70,51,45,49,94,70,62,69,61
-Iowa ,Motorcyclist Fatalities,Total (C-7),36,59,41,52,41,60,49,43,44,64
-Iowa ,Motorcyclist Fatalities,Helmeted,2,11,10,15,9,13,14,14,9,20
-Iowa ,Motorcyclist Fatalities,Unhelmeted (C-8),34,47,31,37,31,47,34,29,35,43
-Iowa ,Motorcyclist Fatalities,Unknown,0,1,0,0,1,0,1,0,0,1
-Iowa ,Drivers Involved in Fatal Crashes,Total,473,491,433,432,421,540,449,466,470,466
-Iowa ,Drivers Involved in Fatal Crashes,Aged Under 15,0,1,1,0,2,3,3,1,0,2
-Iowa ,Drivers Involved in Fatal Crashes,Aged 15-20,53,48,34,50,50,50,46,43,33,48
-Iowa ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),53,49,35,50,52,53,49,44,33,50
-Iowa ,Drivers Involved in Fatal Crashes,Aged 21 and Over,418,440,396,381,368,485,400,418,436,413
-Iowa ,Drivers Involved in Fatal Crashes,Unknown Age,2,2,2,1,1,2,0,4,1,3
-Iowa ,Pedestrian Fatalities (C-10),,25,20,20,19,25,22,23,22,21,27
-Iowa ,Bicyclist and Other Cyclist Fatalities**** (C-11),,5,3,3,4,5,8,5,7,9,10
-Iowa ,Observed Seat Belt Use*** (B-1),,94,92,92,93,93,94,91,94,95,95
+Iowa,Traffic Fatalities,Total (C-1),360,365,317,322,320,402,330,319,336,337
+Iowa,Traffic Fatalities,Rural,300,286,256,255,230,306,254,255,244,239
+Iowa,Traffic Fatalities,Urban,60,79,61,67,90,96,76,64,92,98
+Iowa,Traffic Fatalities,Unknown,0,0,0,0,0,0,0,0,0,0
+Iowa,Fatalities Per 100 Million VMT,Total (C-3),1.15,1.16,1,1.03,0.96,1.21,0.99,0.96,1,1.13
+Iowa,Fatalities Per 100 Million VMT,Rural,1.58,1.5,1.41,1.38,1.19,1.56,1.28,1.29,1.22,1.34
+Iowa,Fatalities Per 100 Million VMT,Urban,0.49,0.63,0.45,0.52,0.65,0.7,0.56,0.47,0.68,0.83
+Iowa,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,265,256,237,220,236,290,220,224,237,205
+Iowa,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,113,119,108,109,123,153,97,121,125,91
+Iowa,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),120,112,102,89,101,109,97,78,93,91
+Iowa,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,32,25,27,22,12,28,26,25,19,23
+Iowa,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,83,96,101,91,78,108,90,90,102,113
+Iowa,Speeding-Related Fatalities (C-6),,64,70,51,45,49,94,70,62,69,61
+Iowa,Motorcyclist Fatalities,Total (C-7),36,59,41,52,41,60,49,43,44,64
+Iowa,Motorcyclist Fatalities,Helmeted,2,11,10,15,9,13,14,14,9,20
+Iowa,Motorcyclist Fatalities,Unhelmeted (C-8),34,47,31,37,31,47,34,29,35,43
+Iowa,Motorcyclist Fatalities,Unknown,0,1,0,0,1,0,1,0,0,1
+Iowa,Drivers Involved in Fatal Crashes,Total,473,491,433,432,421,540,449,466,470,466
+Iowa,Drivers Involved in Fatal Crashes,Aged Under 15,0,1,1,0,2,3,3,1,0,2
+Iowa,Drivers Involved in Fatal Crashes,Aged 15-20,53,48,34,50,50,50,46,43,33,48
+Iowa,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),53,49,35,50,52,53,49,44,33,50
+Iowa,Drivers Involved in Fatal Crashes,Aged 21 and Over,418,440,396,381,368,485,400,418,436,413
+Iowa,Drivers Involved in Fatal Crashes,Unknown Age,2,2,2,1,1,2,0,4,1,3
+Iowa,Pedestrian Fatalities (C-10),,25,20,20,19,25,22,23,22,21,27
+Iowa,Bicyclist and Other Cyclist Fatalities**** (C-11),,5,3,3,4,5,8,5,7,9,10
+Iowa,Observed Seat Belt Use*** (B-1),,94,92,92,93,93,94,91,94,95,95
 Kansas,Traffic Fatalities,Total (C-1),386,405,350,385,355,429,461,405,410,426
 Kansas,Traffic Fatalities,Rural,314,326,271,298,276,322,313,252,258,262
 Kansas,Traffic Fatalities,Urban,72,79,79,87,79,105,147,150,151,164
@@ -467,58 +467,58 @@ Louisiana,Drivers Involved in Fatal Crashes,Unknown Age,21,19,20,20,22,25,20,22,
 Louisiana,Pedestrian Fatalities (C-10),,90,119,97,105,106,127,115,164,118,144
 Louisiana,Bicyclist and Other Cyclist Fatalities**** (C-11),,18,24,14,13,34,22,23,29,22,34
 Louisiana,Observed Seat Belt Use*** (B-1),,78,79,83,84,86,88,87,87,88,88
-Maine ,Traffic Fatalities,Total (C-1),136,164,144,131,156,160,173,136,157,164
-Maine ,Traffic Fatalities,Rural,135,164,140,118,130,129,136,116,126,131
-Maine ,Traffic Fatalities,Urban,1,0,4,13,26,28,36,20,31,32
-Maine ,Traffic Fatalities,Unknown,0,0,0,0,0,3,1,0,0,1
-Maine ,Fatalities Per 100 Million VMT,Total (C-3),0.95,1.16,1.02,0.92,1.07,1.08,1.17,0.92,1.06,1.25
-Maine ,Fatalities Per 100 Million VMT,Rural,1.31,1.6,1.37,1.14,1.23,1.29,1.36,1.14,1.23,1.44
-Maine ,Fatalities Per 100 Million VMT,Urban,0.03,0,0.1,0.33,0.64,0.58,0.77,0.43,0.67,0.8
-Maine ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,102,124,111,104,101,120,115,101,103,114
-Maine ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,47,49,55,63,48,57,62,52,52,50
-Maine ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),51,75,55,41,53,60,53,49,48,64
-Maine ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,4,0,1,0,0,3,0,0,3,0
-Maine ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,23,50,41,37,50,63,48,39,49,64
-Maine ,Speeding-Related Fatalities (C-6),,69,78,50,39,60,56,50,42,49,47
-Maine ,Motorcyclist Fatalities,Total (C-7),15,24,14,11,32,18,26,23,27,29
-Maine ,Motorcyclist Fatalities,Helmeted,4,10,1,7,8,6,9,5,7,8
-Maine ,Motorcyclist Fatalities,Unhelmeted (C-8),11,14,13,4,24,12,17,18,20,21
-Maine ,Motorcyclist Fatalities,Unknown,0,0,0,0,0,0,0,0,0,0
-Maine ,Drivers Involved in Fatal Crashes,Total,169,215,188,172,190,205,251,178,189,216
-Maine ,Drivers Involved in Fatal Crashes,Aged Under 15,2,1,1,0,0,0,0,0,1,0
-Maine ,Drivers Involved in Fatal Crashes,Aged 15-20,22,20,17,16,13,19,18,9,11,17
-Maine ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),24,21,18,16,13,19,18,9,12,17
-Maine ,Drivers Involved in Fatal Crashes,Aged 21 and Over,145,194,170,156,177,185,231,169,176,199
-Maine ,Drivers Involved in Fatal Crashes,Unknown Age,0,0,0,0,0,1,2,0,1,0
-Maine ,Pedestrian Fatalities (C-10),,10,9,11,9,19,17,20,6,16,9
-Maine ,Bicyclist and Other Cyclist Fatalities**** (C-11),,0,1,4,2,0,4,2,2,2,2
-Maine ,Observed Seat Belt Use*** (B-1),,82,84,83,85,86,86,89,89,89,89
-Maryland ,Traffic Fatalities,Total (C-1),485,511,465,442,520,522,558,512,535,567
-Maryland ,Traffic Fatalities,Rural,170,180,167,149,125,108,127,90,115,87
-Maryland ,Traffic Fatalities,Urban,311,325,295,293,378,408,423,414,412,478
-Maryland ,Traffic Fatalities,Unknown,4,6,3,0,17,6,8,8,8,2
-Maryland ,Fatalities Per 100 Million VMT,Total (C-3),0.86,0.9,0.82,0.78,0.9,0.88,0.93,0.86,0.89,1.11
-Maryland ,Fatalities Per 100 Million VMT,Rural,1.21,1.26,1.58,1.47,1.21,1.01,1.18,0.85,1.07,0.93
-Maryland ,Fatalities Per 100 Million VMT,Urban,0.74,0.77,0.64,0.63,0.8,0.84,0.86,0.84,0.83,1.15
-Maryland ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,287,319,279,255,317,290,320,298,309,322
-Maryland ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,135,173,153,134,190,150,163,162,148,134
-Maryland ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),139,113,108,98,87,112,113,106,114,133
-Maryland ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,13,33,18,23,40,28,44,30,47,55
-Maryland ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,161,163,137,130,159,143,186,129,167,183
-Maryland ,Speeding-Related Fatalities (C-6),,142,202,148,134,124,132,163,128,142,163
-Maryland ,Motorcyclist Fatalities,Total (C-7),76,78,62,69,75,76,87,62,77,85
-Maryland ,Motorcyclist Fatalities,Helmeted,64,70,56,58,69,63,70,48,68,71
-Maryland ,Motorcyclist Fatalities,Unhelmeted (C-8),11,8,5,8,6,12,13,13,7,14
-Maryland ,Motorcyclist Fatalities,Unknown,1,0,1,3,0,1,4,1,2,0
-Maryland ,Drivers Involved in Fatal Crashes,Total,686,709,645,643,725,760,792,744,776,814
-Maryland ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,0,1,1,0,0,1,0
-Maryland ,Drivers Involved in Fatal Crashes,Aged 15-20,63,58,41,36,41,50,50,52,47,56
-Maryland ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),63,58,42,36,42,51,50,52,48,56
-Maryland ,Drivers Involved in Fatal Crashes,Aged 21 and Over,606,637,586,595,662,687,712,678,705,730
-Maryland ,Drivers Involved in Fatal Crashes,Unknown Age,17,14,17,12,21,22,30,14,23,28
-Maryland ,Pedestrian Fatalities (C-10),,102,97,108,101,97,108,117,131,124,130
-Maryland ,Bicyclist and Other Cyclist Fatalities**** (C-11),,5,5,6,5,11,16,11,6,10,15
-Maryland ,Observed Seat Belt Use*** (B-1),,94,91,91,92,93,91,92,90,90,90
+Maine,Traffic Fatalities,Total (C-1),136,164,144,131,156,160,173,136,157,164
+Maine,Traffic Fatalities,Rural,135,164,140,118,130,129,136,116,126,131
+Maine,Traffic Fatalities,Urban,1,0,4,13,26,28,36,20,31,32
+Maine,Traffic Fatalities,Unknown,0,0,0,0,0,3,1,0,0,1
+Maine,Fatalities Per 100 Million VMT,Total (C-3),0.95,1.16,1.02,0.92,1.07,1.08,1.17,0.92,1.06,1.25
+Maine,Fatalities Per 100 Million VMT,Rural,1.31,1.6,1.37,1.14,1.23,1.29,1.36,1.14,1.23,1.44
+Maine,Fatalities Per 100 Million VMT,Urban,0.03,0,0.1,0.33,0.64,0.58,0.77,0.43,0.67,0.8
+Maine,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,102,124,111,104,101,120,115,101,103,114
+Maine,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,47,49,55,63,48,57,62,52,52,50
+Maine,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),51,75,55,41,53,60,53,49,48,64
+Maine,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,4,0,1,0,0,3,0,0,3,0
+Maine,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,23,50,41,37,50,63,48,39,49,64
+Maine,Speeding-Related Fatalities (C-6),,69,78,50,39,60,56,50,42,49,47
+Maine,Motorcyclist Fatalities,Total (C-7),15,24,14,11,32,18,26,23,27,29
+Maine,Motorcyclist Fatalities,Helmeted,4,10,1,7,8,6,9,5,7,8
+Maine,Motorcyclist Fatalities,Unhelmeted (C-8),11,14,13,4,24,12,17,18,20,21
+Maine,Motorcyclist Fatalities,Unknown,0,0,0,0,0,0,0,0,0,0
+Maine,Drivers Involved in Fatal Crashes,Total,169,215,188,172,190,205,251,178,189,216
+Maine,Drivers Involved in Fatal Crashes,Aged Under 15,2,1,1,0,0,0,0,0,1,0
+Maine,Drivers Involved in Fatal Crashes,Aged 15-20,22,20,17,16,13,19,18,9,11,17
+Maine,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),24,21,18,16,13,19,18,9,12,17
+Maine,Drivers Involved in Fatal Crashes,Aged 21 and Over,145,194,170,156,177,185,231,169,176,199
+Maine,Drivers Involved in Fatal Crashes,Unknown Age,0,0,0,0,0,1,2,0,1,0
+Maine,Pedestrian Fatalities (C-10),,10,9,11,9,19,17,20,6,16,9
+Maine,Bicyclist and Other Cyclist Fatalities**** (C-11),,0,1,4,2,0,4,2,2,2,2
+Maine,Observed Seat Belt Use*** (B-1),,82,84,83,85,86,86,89,89,89,89
+Maryland,Traffic Fatalities,Total (C-1),485,511,465,442,520,522,558,512,535,567
+Maryland,Traffic Fatalities,Rural,170,180,167,149,125,108,127,90,115,87
+Maryland,Traffic Fatalities,Urban,311,325,295,293,378,408,423,414,412,478
+Maryland,Traffic Fatalities,Unknown,4,6,3,0,17,6,8,8,8,2
+Maryland,Fatalities Per 100 Million VMT,Total (C-3),0.86,0.9,0.82,0.78,0.9,0.88,0.93,0.86,0.89,1.11
+Maryland,Fatalities Per 100 Million VMT,Rural,1.21,1.26,1.58,1.47,1.21,1.01,1.18,0.85,1.07,0.93
+Maryland,Fatalities Per 100 Million VMT,Urban,0.74,0.77,0.64,0.63,0.8,0.84,0.86,0.84,0.83,1.15
+Maryland,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,287,319,279,255,317,290,320,298,309,322
+Maryland,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,135,173,153,134,190,150,163,162,148,134
+Maryland,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),139,113,108,98,87,112,113,106,114,133
+Maryland,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,13,33,18,23,40,28,44,30,47,55
+Maryland,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,161,163,137,130,159,143,186,129,167,183
+Maryland,Speeding-Related Fatalities (C-6),,142,202,148,134,124,132,163,128,142,163
+Maryland,Motorcyclist Fatalities,Total (C-7),76,78,62,69,75,76,87,62,77,85
+Maryland,Motorcyclist Fatalities,Helmeted,64,70,56,58,69,63,70,48,68,71
+Maryland,Motorcyclist Fatalities,Unhelmeted (C-8),11,8,5,8,6,12,13,13,7,14
+Maryland,Motorcyclist Fatalities,Unknown,1,0,1,3,0,1,4,1,2,0
+Maryland,Drivers Involved in Fatal Crashes,Total,686,709,645,643,725,760,792,744,776,814
+Maryland,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,0,1,1,0,0,1,0
+Maryland,Drivers Involved in Fatal Crashes,Aged 15-20,63,58,41,36,41,50,50,52,47,56
+Maryland,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),63,58,42,36,42,51,50,52,48,56
+Maryland,Drivers Involved in Fatal Crashes,Aged 21 and Over,606,637,586,595,662,687,712,678,705,730
+Maryland,Drivers Involved in Fatal Crashes,Unknown Age,17,14,17,12,21,22,30,14,23,28
+Maryland,Pedestrian Fatalities (C-10),,102,97,108,101,97,108,117,131,124,130
+Maryland,Bicyclist and Other Cyclist Fatalities**** (C-11),,5,5,6,5,11,16,11,6,10,15
+Maryland,Observed Seat Belt Use*** (B-1),,94,91,91,92,93,91,92,90,90,90
 Massachusetts,Traffic Fatalities,Total (C-1),374,383,351,354,344,387,347,355,336,343
 Massachusetts,Traffic Fatalities,Rural,44,50,50,37,22,17,22,34,25,28
 Massachusetts,Traffic Fatalities,Urban,330,333,300,317,321,370,325,320,311,315
@@ -649,32 +649,32 @@ Missouri,Drivers Involved in Fatal Crashes,Unknown Age,8,11,12,18,32,23,23,29,21
 Missouri,Pedestrian Fatalities (C-10),,75,84,73,65,104,96,96,95,109,128
 Missouri,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,6,4,5,9,9,9,2,14,8
 Missouri,Observed Seat Belt Use*** (B-1),,79,79,80,79,80,81,84,87,88,86
-Montana ,Traffic Fatalities,Total (C-1),209,205,229,192,224,190,186,181,184,213
-Montana ,Traffic Fatalities,Rural,179,191,224,178,200,170,167,153,159,190
-Montana ,Traffic Fatalities,Urban,29,14,5,14,24,19,19,28,25,22
-Montana ,Traffic Fatalities,Unknown,1,0,0,0,0,1,0,0,0,1
-Montana ,Fatalities Per 100 Million VMT,Total (C-3),1.79,1.72,1.9,1.58,1.81,1.51,1.47,1.43,1.43,1.76
-Montana ,Fatalities Per 100 Million VMT,Rural,2.05,2.15,2.68,2.11,2.34,1.95,1.91,1.75,1.78,2.26
-Montana ,Fatalities Per 100 Million VMT,Urban,0.99,0.47,0.14,0.38,0.63,0.49,0.49,0.71,0.63,0.6
-Montana ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,164,157,161,145,170,145,142,132,117,151
-Montana ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,51,42,50,40,47,47,52,45,44,56
-Montana ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),109,113,108,99,114,93,86,85,67,94
-Montana ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,4,2,3,6,9,5,4,2,6,1
-Montana ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,82,89,93,73,76,84,56,80,66,96
-Montana ,Speeding-Related Fatalities (C-6),,75,88,76,52,91,61,59,66,57,83
-Montana ,Motorcyclist Fatalities,Total (C-7),20,30,35,23,24,17,22,21,23,29
-Montana ,Motorcyclist Fatalities,Helmeted,9,9,12,10,5,5,9,10,9,11
-Montana ,Motorcyclist Fatalities,Unhelmeted (C-8),10,21,22,12,18,12,13,11,14,18
-Montana ,Motorcyclist Fatalities,Unknown,1,0,1,1,1,0,0,0,0,0
-Montana ,Drivers Involved in Fatal Crashes,Total,260,250,266,223,267,212,228,211,219,242
-Montana ,Drivers Involved in Fatal Crashes,Aged Under 15,1,2,0,1,1,1,0,2,0,0
-Montana ,Drivers Involved in Fatal Crashes,Aged 15-20,23,26,24,25,34,18,24,24,30,28
-Montana ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),24,28,24,26,35,19,24,26,30,28
-Montana ,Drivers Involved in Fatal Crashes,Aged 21 and Over,235,220,241,196,232,191,204,183,189,213
-Montana ,Drivers Involved in Fatal Crashes,Unknown Age,1,2,1,1,0,2,0,2,0,1
-Montana ,Pedestrian Fatalities (C-10),,15,8,24,10,14,11,14,15,16,17
-Montana ,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,1,1,2,1,3,1,2,3,0
-Montana ,Observed Seat Belt Use*** (B-1),,77,76,74,74,77,76,78,87,89,90
+Montana,Traffic Fatalities,Total (C-1),209,205,229,192,224,190,186,181,184,213
+Montana,Traffic Fatalities,Rural,179,191,224,178,200,170,167,153,159,190
+Montana,Traffic Fatalities,Urban,29,14,5,14,24,19,19,28,25,22
+Montana,Traffic Fatalities,Unknown,1,0,0,0,0,1,0,0,0,1
+Montana,Fatalities Per 100 Million VMT,Total (C-3),1.79,1.72,1.9,1.58,1.81,1.51,1.47,1.43,1.43,1.76
+Montana,Fatalities Per 100 Million VMT,Rural,2.05,2.15,2.68,2.11,2.34,1.95,1.91,1.75,1.78,2.26
+Montana,Fatalities Per 100 Million VMT,Urban,0.99,0.47,0.14,0.38,0.63,0.49,0.49,0.71,0.63,0.6
+Montana,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,164,157,161,145,170,145,142,132,117,151
+Montana,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,51,42,50,40,47,47,52,45,44,56
+Montana,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),109,113,108,99,114,93,86,85,67,94
+Montana,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,4,2,3,6,9,5,4,2,6,1
+Montana,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,82,89,93,73,76,84,56,80,66,96
+Montana,Speeding-Related Fatalities (C-6),,75,88,76,52,91,61,59,66,57,83
+Montana,Motorcyclist Fatalities,Total (C-7),20,30,35,23,24,17,22,21,23,29
+Montana,Motorcyclist Fatalities,Helmeted,9,9,12,10,5,5,9,10,9,11
+Montana,Motorcyclist Fatalities,Unhelmeted (C-8),10,21,22,12,18,12,13,11,14,18
+Montana,Motorcyclist Fatalities,Unknown,1,0,1,1,1,0,0,0,0,0
+Montana,Drivers Involved in Fatal Crashes,Total,260,250,266,223,267,212,228,211,219,242
+Montana,Drivers Involved in Fatal Crashes,Aged Under 15,1,2,0,1,1,1,0,2,0,0
+Montana,Drivers Involved in Fatal Crashes,Aged 15-20,23,26,24,25,34,18,24,24,30,28
+Montana,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),24,28,24,26,35,19,24,26,30,28
+Montana,Drivers Involved in Fatal Crashes,Aged 21 and Over,235,220,241,196,232,191,204,183,189,213
+Montana,Drivers Involved in Fatal Crashes,Unknown Age,1,2,1,1,0,2,0,2,0,1
+Montana,Pedestrian Fatalities (C-10),,15,8,24,10,14,11,14,15,16,17
+Montana,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,1,1,2,1,3,1,2,3,0
+Montana,Observed Seat Belt Use*** (B-1),,77,76,74,74,77,76,78,87,89,90
 Nebraska,Traffic Fatalities,Total (C-1),181,212,211,225,246,218,228,230,248,233
 Nebraska,Traffic Fatalities,Rural,138,161,170,177,173,166,159,171,178,165
 Nebraska,Traffic Fatalities,Urban,43,51,41,48,73,52,69,59,70,68
@@ -753,136 +753,136 @@ New Hampshire,Drivers Involved in Fatal Crashes,Unknown Age,0,0,0,0,1,1,0,0,0,0
 New Hampshire,Pedestrian Fatalities (C-10),,5,8,12,12,8,17,11,9,10,16
 New Hampshire,Bicyclist and Other Cyclist Fatalities**** (C-11),,4,0,4,3,3,2,2,2,0,2
 New Hampshire,Observed Seat Belt Use*** (B-1),,75,69,73,70,70,70,68,76,71,72
-New Jersey ,Traffic Fatalities,Total (C-1),627,589,542,556,561,602,624,563,558,584
-New Jersey ,Traffic Fatalities,Rural,89,71,79,78,67,86,83,45,63,54
-New Jersey ,Traffic Fatalities,Urban,537,516,463,475,490,512,536,508,488,518
-New Jersey ,Traffic Fatalities,Unknown,1,2,0,3,4,4,5,10,7,12
-New Jersey ,Fatalities Per 100 Million VMT,Total (C-3),0.86,0.79,0.73,0.74,0.74,0.78,0.81,0.73,0.71,0.88
-New Jersey ,Fatalities Per 100 Million VMT,Rural,1.41,1.56,1.74,1.66,1.39,1.74,1.7,0.92,1.27,1.27
-New Jersey ,Fatalities Per 100 Million VMT,Urban,0.8,0.74,0.66,0.68,0.69,0.71,0.74,0.7,0.67,0.83
-New Jersey ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,357,315,329,294,303,336,331,297,260,302
-New Jersey ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,199,153,174,157,176,178,196,161,143,148
-New Jersey ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),152,150,141,119,116,147,119,125,109,126
-New Jersey ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,6,12,14,18,11,11,16,11,8,28
-New Jersey ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,194,164,148,161,107,134,121,127,129,151
-New Jersey ,Speeding-Related Fatalities (C-6),,174,157,118,99,128,132,126,119,110,142
-New Jersey ,Motorcyclist Fatalities,Total (C-7),93,77,56,62,50,71,83,53,85,78
-New Jersey ,Motorcyclist Fatalities,Helmeted,83,66,51,52,43,64,75,45,67,66
-New Jersey ,Motorcyclist Fatalities,Unhelmeted (C-8),8,8,2,5,7,3,3,7,15,8
-New Jersey ,Motorcyclist Fatalities,Unknown,2,3,3,5,0,4,5,1,3,4
-New Jersey ,Drivers Involved in Fatal Crashes,Total,872,816,748,783,750,827,863,775,771,812
-New Jersey ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,0,0,0,2,0,1,0
-New Jersey ,Drivers Involved in Fatal Crashes,Aged 15-20,81,67,46,58,58,64,51,52,56,63
-New Jersey ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),81,67,47,58,58,64,53,52,57,63
-New Jersey ,Drivers Involved in Fatal Crashes,Aged 21 and Over,774,734,679,703,672,745,803,705,697,719
-New Jersey ,Drivers Involved in Fatal Crashes,Unknown Age,17,15,22,22,20,18,7,18,17,30
-New Jersey ,Pedestrian Fatalities (C-10),,142,156,129,168,170,163,183,173,174,173
-New Jersey ,Bicyclist and Other Cyclist Fatalities**** (C-11),,17,14,14,11,18,18,17,18,13,18
-New Jersey ,Observed Seat Belt Use*** (B-1),,95,88,91,88,91,93,94,95,90,90
-New Mexico ,Traffic Fatalities,Total (C-1),350,366,311,386,298,405,380,392,425,398
-New Mexico ,Traffic Fatalities,Rural,273,259,215,248,176,229,195,232,241,211
-New Mexico ,Traffic Fatalities,Urban,77,106,96,133,119,172,180,158,184,184
-New Mexico ,Traffic Fatalities,Unknown,0,1,0,5,3,4,5,2,0,3
-New Mexico ,Fatalities Per 100 Million VMT,Total (C-3),1.36,1.43,1.24,1.52,1.09,1.45,1.37,1.44,1.53,1.68
-New Mexico ,Fatalities Per 100 Million VMT,Rural,1.87,1.78,1.5,1.73,1.13,1.43,1.16,1.43,1.47,1.48
-New Mexico ,Fatalities Per 100 Million VMT,Urban,0.7,0.97,0.9,1.21,1,1.45,1.63,1.42,1.62,1.93
-New Mexico ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,239,220,189,231,182,266,222,222,248,240
-New Mexico ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,128,98,72,106,70,117,107,87,117,98
-New Mexico ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),109,106,96,98,88,136,105,112,101,131
-New Mexico ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,2,16,21,27,24,13,10,23,30,11
-New Mexico ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,104,97,98,117,98,119,113,113,125,130
-New Mexico ,Speeding-Related Fatalities (C-6),,148,122,122,132,130,146,141,132,156,160
-New Mexico ,Motorcyclist Fatalities,Total (C-7),47,64,41,46,38,47,53,46,55,46
-New Mexico ,Motorcyclist Fatalities,Helmeted,6,22,13,9,19,25,14,20,17,20
-New Mexico ,Motorcyclist Fatalities,Unhelmeted (C-8),41,39,20,35,18,22,35,20,32,24
-New Mexico ,Motorcyclist Fatalities,Unknown,0,3,8,2,1,0,4,6,6,2
-New Mexico ,Drivers Involved in Fatal Crashes,Total,414,471,391,473,383,506,535,516,561,537
-New Mexico ,Drivers Involved in Fatal Crashes,Aged Under 15,3,1,1,1,1,0,0,1,1,1
-New Mexico ,Drivers Involved in Fatal Crashes,Aged 15-20,37,43,37,38,31,56,50,43,56,52
-New Mexico ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),40,44,38,39,32,56,50,44,57,53
-New Mexico ,Drivers Involved in Fatal Crashes,Aged 21 and Over,371,414,344,416,340,434,467,450,484,458
-New Mexico ,Drivers Involved in Fatal Crashes,Unknown Age,3,13,9,18,11,16,18,22,20,26
-New Mexico ,Pedestrian Fatalities (C-10),,39,61,49,75,54,74,75,83,83,79
-New Mexico ,Bicyclist and Other Cyclist Fatalities**** (C-11),,4,7,4,5,7,4,2,11,9,8
-New Mexico ,Observed Seat Belt Use*** (B-1),,91,91,92,92,93,92,92,90,92,92
-New York ,Traffic Fatalities,Total (C-1),1171,1180,1202,1041,1136,1041,1006,964,934,1046
-New York ,Traffic Fatalities,Rural,534,618,630,390,455,463,474,287,255,287
-New York ,Traffic Fatalities,Urban,637,562,572,651,681,578,532,677,678,759
-New York ,Traffic Fatalities,Unknown,0,0,0,0,0,0,0,0,1,0
-New York ,Fatalities Per 100 Million VMT,Total (C-3),0.96,0.96,0.97,0.84,0.93,0.85,0.81,0.78,0.75,1.02
-New York ,Fatalities Per 100 Million VMT,Rural,1.98,2.29,2.35,1.55,1.84,1.85,1.88,1.13,1,1.31
-New York ,Fatalities Per 100 Million VMT,Urban,0.67,0.59,0.59,0.66,0.7,0.59,0.54,0.69,0.69,0.94
-New York ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,604,629,616,540,572,518,542,477,433,518
-New York ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,343,366,339,329,320,293,307,269,246,286
-New York ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),187,206,186,155,173,151,172,154,150,176
-New York ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,74,57,91,56,79,74,63,54,37,56
-New York ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,328,340,369,312,315,296,289,325,256,286
-New York ,Speeding-Related Fatalities (C-6),,332,363,359,322,347,314,310,278,269,378
-New York ,Motorcyclist Fatalities,Total (C-7),170,170,170,148,163,136,145,152,136,200
-New York ,Motorcyclist Fatalities,Helmeted,156,146,147,124,145,121,131,136,122,167
-New York ,Motorcyclist Fatalities,Unhelmeted (C-8),11,15,16,21,15,9,9,7,11,27
-New York ,Motorcyclist Fatalities,Unknown,3,9,7,3,3,6,5,9,3,6
-New York ,Drivers Involved in Fatal Crashes,Total,1531,1584,1575,1403,1519,1392,1371,1313,1218,1429
-New York ,Drivers Involved in Fatal Crashes,Aged Under 15,1,1,0,0,2,0,0,3,0,3
-New York ,Drivers Involved in Fatal Crashes,Aged 15-20,127,139,131,97,99,104,99,85,84,100
-New York ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),128,140,131,97,101,104,99,88,84,103
-New York ,Drivers Involved in Fatal Crashes,Aged 21 and Over,1360,1395,1397,1268,1378,1249,1231,1198,1102,1290
-New York ,Drivers Involved in Fatal Crashes,Unknown Age,43,49,47,38,40,39,41,27,32,36
-New York ,Pedestrian Fatalities (C-10),,287,303,336,264,311,307,246,268,274,231
-New York ,Bicyclist and Other Cyclist Fatalities**** (C-11),,57,45,40,46,36,39,46,30,48,47
-New York ,Observed Seat Belt Use*** (B-1),,91,90,91,91,92,92,93,93,94,94
-North Carolina ,Traffic Fatalities,Total (C-1),1230,1299,1290,1284,1379,1450,1412,1436,1457,1538
-North Carolina ,Traffic Fatalities,Rural,835,901,861,896,910,902,873,692,799,819
-North Carolina ,Traffic Fatalities,Urban,394,398,426,388,468,543,539,742,655,713
-North Carolina ,Traffic Fatalities,Unknown,1,0,3,0,1,5,0,2,3,6
-North Carolina ,Fatalities Per 100 Million VMT,Total (C-3),1.19,1.24,1.23,1.19,1.23,1.24,1.18,1.19,1.19,1.45
-North Carolina ,Fatalities Per 100 Million VMT,Rural,2.07,2.2,2.12,2.45,2.42,2.3,2.18,1.68,1.92,2.22
-North Carolina ,Fatalities Per 100 Million VMT,Urban,0.62,0.62,0.66,0.54,0.63,0.7,0.68,0.93,0.81,1.03
-North Carolina ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,833,831,872,865,948,996,954,958,961,1038
-North Carolina ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,418,420,454,471,501,524,504,523,488,501
-North Carolina ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),379,354,355,360,402,430,400,393,428,501
-North Carolina ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,36,57,63,34,45,42,50,42,45,36
-North Carolina ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,359,372,368,363,389,428,399,419,386,454
-North Carolina ,Speeding-Related Fatalities (C-6),,476,441,413,497,547,566,423,327,331,489
-North Carolina ,Motorcyclist Fatalities,Total (C-7),170,198,189,190,192,185,176,191,210,192
-North Carolina ,Motorcyclist Fatalities,Helmeted,159,173,170,175,176,168,161,176,187,172
-North Carolina ,Motorcyclist Fatalities,Unhelmeted (C-8),11,23,17,15,14,14,14,15,20,18
-North Carolina ,Motorcyclist Fatalities,Unknown,0,2,2,0,2,3,1,0,3,2
-North Carolina ,Drivers Involved in Fatal Crashes,Total,1678,1739,1749,1748,1935,2012,2004,2051,2055,2149
-North Carolina ,Drivers Involved in Fatal Crashes,Aged Under 15,4,2,2,0,0,2,2,0,1,2
-North Carolina ,Drivers Involved in Fatal Crashes,Aged 15-20,172,168,151,162,165,187,171,157,154,191
-North Carolina ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),176,170,153,162,165,189,173,157,155,193
-North Carolina ,Drivers Involved in Fatal Crashes,Aged 21 and Over,1481,1556,1578,1568,1750,1797,1807,1869,1876,1918
-North Carolina ,Drivers Involved in Fatal Crashes,Unknown Age,21,13,18,18,20,26,24,25,24,38
-North Carolina ,Pedestrian Fatalities (C-10),,161,200,174,172,182,200,198,224,221,228
-North Carolina ,Bicyclist and Other Cyclist Fatalities**** (C-11),,25,27,22,19,23,17,29,18,19,26
-North Carolina ,Observed Seat Belt Use*** (B-1),,90,88,89,91,90,92,91,91,88,87
-North Dakota ,Traffic Fatalities,Total (C-1),148,170,148,135,131,113,116,105,100,100
-North Dakota ,Traffic Fatalities,Rural,132,146,138,116,122,106,103,91,84,76
-North Dakota ,Traffic Fatalities,Urban,16,24,10,19,9,7,10,14,16,24
-North Dakota ,Traffic Fatalities,Unknown,0,0,0,0,0,0,3,0,0,0
-North Dakota ,Fatalities Per 100 Million VMT,Total (C-3),1.62,1.69,1.47,1.28,1.31,1.16,1.19,1.07,1.02,1.14
-North Dakota ,Fatalities Per 100 Million VMT,Rural,1.95,1.91,1.84,1.47,1.67,1.55,1.52,1.32,1.22,1.29
-North Dakota ,Fatalities Per 100 Million VMT,Urban,0.68,0.98,0.39,0.72,0.33,0.24,0.34,0.47,0.54,0.83
-North Dakota ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,114,131,112,105,100,77,80,76,69,61
-North Dakota ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,30,40,28,29,29,21,28,29,24,17
-North Dakota ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),76,89,66,71,63,48,42,37,33,39
-North Dakota ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,8,2,18,5,8,8,10,10,12,5
-North Dakota ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,63,72,61,55,51,52,45,28,42,35
-North Dakota ,Speeding-Related Fatalities (C-6),,51,62,59,50,43,25,28,41,25,26
-North Dakota ,Motorcyclist Fatalities,Total (C-7),14,16,9,10,8,12,13,16,11,17
-North Dakota ,Motorcyclist Fatalities,Helmeted,4,4,5,1,5,2,3,5,4,3
-North Dakota ,Motorcyclist Fatalities,Unhelmeted (C-8),10,11,3,9,3,10,10,11,7,14
-North Dakota ,Motorcyclist Fatalities,Unknown,0,1,1,0,0,0,0,0,0,0
-North Dakota ,Drivers Involved in Fatal Crashes,Total,187,218,213,176,166,138,147,144,126,135
-North Dakota ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,2,2,0,0,1,1,2
-North Dakota ,Drivers Involved in Fatal Crashes,Aged 15-20,22,23,20,21,14,15,15,8,9,11
-North Dakota ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),22,23,21,23,16,15,15,9,10,13
-North Dakota ,Drivers Involved in Fatal Crashes,Aged 21 and Over,165,195,192,152,150,123,131,135,116,122
-North Dakota ,Drivers Involved in Fatal Crashes,Unknown Age,0,0,0,1,0,0,1,0,0,0
-North Dakota ,Pedestrian Fatalities (C-10),,9,7,1,9,7,7,5,6,5,8
-North Dakota ,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,0,1,3,1,3,2,2,2,1
-North Dakota ,Observed Seat Belt Use*** (B-1),,77,81,78,81,80,83,79,83,84,84
+New Jersey,Traffic Fatalities,Total (C-1),627,589,542,556,561,602,624,563,558,584
+New Jersey,Traffic Fatalities,Rural,89,71,79,78,67,86,83,45,63,54
+New Jersey,Traffic Fatalities,Urban,537,516,463,475,490,512,536,508,488,518
+New Jersey,Traffic Fatalities,Unknown,1,2,0,3,4,4,5,10,7,12
+New Jersey,Fatalities Per 100 Million VMT,Total (C-3),0.86,0.79,0.73,0.74,0.74,0.78,0.81,0.73,0.71,0.88
+New Jersey,Fatalities Per 100 Million VMT,Rural,1.41,1.56,1.74,1.66,1.39,1.74,1.7,0.92,1.27,1.27
+New Jersey,Fatalities Per 100 Million VMT,Urban,0.8,0.74,0.66,0.68,0.69,0.71,0.74,0.7,0.67,0.83
+New Jersey,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,357,315,329,294,303,336,331,297,260,302
+New Jersey,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,199,153,174,157,176,178,196,161,143,148
+New Jersey,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),152,150,141,119,116,147,119,125,109,126
+New Jersey,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,6,12,14,18,11,11,16,11,8,28
+New Jersey,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,194,164,148,161,107,134,121,127,129,151
+New Jersey,Speeding-Related Fatalities (C-6),,174,157,118,99,128,132,126,119,110,142
+New Jersey,Motorcyclist Fatalities,Total (C-7),93,77,56,62,50,71,83,53,85,78
+New Jersey,Motorcyclist Fatalities,Helmeted,83,66,51,52,43,64,75,45,67,66
+New Jersey,Motorcyclist Fatalities,Unhelmeted (C-8),8,8,2,5,7,3,3,7,15,8
+New Jersey,Motorcyclist Fatalities,Unknown,2,3,3,5,0,4,5,1,3,4
+New Jersey,Drivers Involved in Fatal Crashes,Total,872,816,748,783,750,827,863,775,771,812
+New Jersey,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,0,0,0,2,0,1,0
+New Jersey,Drivers Involved in Fatal Crashes,Aged 15-20,81,67,46,58,58,64,51,52,56,63
+New Jersey,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),81,67,47,58,58,64,53,52,57,63
+New Jersey,Drivers Involved in Fatal Crashes,Aged 21 and Over,774,734,679,703,672,745,803,705,697,719
+New Jersey,Drivers Involved in Fatal Crashes,Unknown Age,17,15,22,22,20,18,7,18,17,30
+New Jersey,Pedestrian Fatalities (C-10),,142,156,129,168,170,163,183,173,174,173
+New Jersey,Bicyclist and Other Cyclist Fatalities**** (C-11),,17,14,14,11,18,18,17,18,13,18
+New Jersey,Observed Seat Belt Use*** (B-1),,95,88,91,88,91,93,94,95,90,90
+New Mexico,Traffic Fatalities,Total (C-1),350,366,311,386,298,405,380,392,425,398
+New Mexico,Traffic Fatalities,Rural,273,259,215,248,176,229,195,232,241,211
+New Mexico,Traffic Fatalities,Urban,77,106,96,133,119,172,180,158,184,184
+New Mexico,Traffic Fatalities,Unknown,0,1,0,5,3,4,5,2,0,3
+New Mexico,Fatalities Per 100 Million VMT,Total (C-3),1.36,1.43,1.24,1.52,1.09,1.45,1.37,1.44,1.53,1.68
+New Mexico,Fatalities Per 100 Million VMT,Rural,1.87,1.78,1.5,1.73,1.13,1.43,1.16,1.43,1.47,1.48
+New Mexico,Fatalities Per 100 Million VMT,Urban,0.7,0.97,0.9,1.21,1,1.45,1.63,1.42,1.62,1.93
+New Mexico,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,239,220,189,231,182,266,222,222,248,240
+New Mexico,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,128,98,72,106,70,117,107,87,117,98
+New Mexico,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),109,106,96,98,88,136,105,112,101,131
+New Mexico,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,2,16,21,27,24,13,10,23,30,11
+New Mexico,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,104,97,98,117,98,119,113,113,125,130
+New Mexico,Speeding-Related Fatalities (C-6),,148,122,122,132,130,146,141,132,156,160
+New Mexico,Motorcyclist Fatalities,Total (C-7),47,64,41,46,38,47,53,46,55,46
+New Mexico,Motorcyclist Fatalities,Helmeted,6,22,13,9,19,25,14,20,17,20
+New Mexico,Motorcyclist Fatalities,Unhelmeted (C-8),41,39,20,35,18,22,35,20,32,24
+New Mexico,Motorcyclist Fatalities,Unknown,0,3,8,2,1,0,4,6,6,2
+New Mexico,Drivers Involved in Fatal Crashes,Total,414,471,391,473,383,506,535,516,561,537
+New Mexico,Drivers Involved in Fatal Crashes,Aged Under 15,3,1,1,1,1,0,0,1,1,1
+New Mexico,Drivers Involved in Fatal Crashes,Aged 15-20,37,43,37,38,31,56,50,43,56,52
+New Mexico,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),40,44,38,39,32,56,50,44,57,53
+New Mexico,Drivers Involved in Fatal Crashes,Aged 21 and Over,371,414,344,416,340,434,467,450,484,458
+New Mexico,Drivers Involved in Fatal Crashes,Unknown Age,3,13,9,18,11,16,18,22,20,26
+New Mexico,Pedestrian Fatalities (C-10),,39,61,49,75,54,74,75,83,83,79
+New Mexico,Bicyclist and Other Cyclist Fatalities**** (C-11),,4,7,4,5,7,4,2,11,9,8
+New Mexico,Observed Seat Belt Use*** (B-1),,91,91,92,92,93,92,92,90,92,92
+New York,Traffic Fatalities,Total (C-1),1171,1180,1202,1041,1136,1041,1006,964,934,1046
+New York,Traffic Fatalities,Rural,534,618,630,390,455,463,474,287,255,287
+New York,Traffic Fatalities,Urban,637,562,572,651,681,578,532,677,678,759
+New York,Traffic Fatalities,Unknown,0,0,0,0,0,0,0,0,1,0
+New York,Fatalities Per 100 Million VMT,Total (C-3),0.96,0.96,0.97,0.84,0.93,0.85,0.81,0.78,0.75,1.02
+New York,Fatalities Per 100 Million VMT,Rural,1.98,2.29,2.35,1.55,1.84,1.85,1.88,1.13,1,1.31
+New York,Fatalities Per 100 Million VMT,Urban,0.67,0.59,0.59,0.66,0.7,0.59,0.54,0.69,0.69,0.94
+New York,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,604,629,616,540,572,518,542,477,433,518
+New York,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,343,366,339,329,320,293,307,269,246,286
+New York,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),187,206,186,155,173,151,172,154,150,176
+New York,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,74,57,91,56,79,74,63,54,37,56
+New York,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,328,340,369,312,315,296,289,325,256,286
+New York,Speeding-Related Fatalities (C-6),,332,363,359,322,347,314,310,278,269,378
+New York,Motorcyclist Fatalities,Total (C-7),170,170,170,148,163,136,145,152,136,200
+New York,Motorcyclist Fatalities,Helmeted,156,146,147,124,145,121,131,136,122,167
+New York,Motorcyclist Fatalities,Unhelmeted (C-8),11,15,16,21,15,9,9,7,11,27
+New York,Motorcyclist Fatalities,Unknown,3,9,7,3,3,6,5,9,3,6
+New York,Drivers Involved in Fatal Crashes,Total,1531,1584,1575,1403,1519,1392,1371,1313,1218,1429
+New York,Drivers Involved in Fatal Crashes,Aged Under 15,1,1,0,0,2,0,0,3,0,3
+New York,Drivers Involved in Fatal Crashes,Aged 15-20,127,139,131,97,99,104,99,85,84,100
+New York,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),128,140,131,97,101,104,99,88,84,103
+New York,Drivers Involved in Fatal Crashes,Aged 21 and Over,1360,1395,1397,1268,1378,1249,1231,1198,1102,1290
+New York,Drivers Involved in Fatal Crashes,Unknown Age,43,49,47,38,40,39,41,27,32,36
+New York,Pedestrian Fatalities (C-10),,287,303,336,264,311,307,246,268,274,231
+New York,Bicyclist and Other Cyclist Fatalities**** (C-11),,57,45,40,46,36,39,46,30,48,47
+New York,Observed Seat Belt Use*** (B-1),,91,90,91,91,92,92,93,93,94,94
+North Carolina,Traffic Fatalities,Total (C-1),1230,1299,1290,1284,1379,1450,1412,1436,1457,1538
+North Carolina,Traffic Fatalities,Rural,835,901,861,896,910,902,873,692,799,819
+North Carolina,Traffic Fatalities,Urban,394,398,426,388,468,543,539,742,655,713
+North Carolina,Traffic Fatalities,Unknown,1,0,3,0,1,5,0,2,3,6
+North Carolina,Fatalities Per 100 Million VMT,Total (C-3),1.19,1.24,1.23,1.19,1.23,1.24,1.18,1.19,1.19,1.45
+North Carolina,Fatalities Per 100 Million VMT,Rural,2.07,2.2,2.12,2.45,2.42,2.3,2.18,1.68,1.92,2.22
+North Carolina,Fatalities Per 100 Million VMT,Urban,0.62,0.62,0.66,0.54,0.63,0.7,0.68,0.93,0.81,1.03
+North Carolina,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,833,831,872,865,948,996,954,958,961,1038
+North Carolina,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,418,420,454,471,501,524,504,523,488,501
+North Carolina,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),379,354,355,360,402,430,400,393,428,501
+North Carolina,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,36,57,63,34,45,42,50,42,45,36
+North Carolina,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,359,372,368,363,389,428,399,419,386,454
+North Carolina,Speeding-Related Fatalities (C-6),,476,441,413,497,547,566,423,327,331,489
+North Carolina,Motorcyclist Fatalities,Total (C-7),170,198,189,190,192,185,176,191,210,192
+North Carolina,Motorcyclist Fatalities,Helmeted,159,173,170,175,176,168,161,176,187,172
+North Carolina,Motorcyclist Fatalities,Unhelmeted (C-8),11,23,17,15,14,14,14,15,20,18
+North Carolina,Motorcyclist Fatalities,Unknown,0,2,2,0,2,3,1,0,3,2
+North Carolina,Drivers Involved in Fatal Crashes,Total,1678,1739,1749,1748,1935,2012,2004,2051,2055,2149
+North Carolina,Drivers Involved in Fatal Crashes,Aged Under 15,4,2,2,0,0,2,2,0,1,2
+North Carolina,Drivers Involved in Fatal Crashes,Aged 15-20,172,168,151,162,165,187,171,157,154,191
+North Carolina,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),176,170,153,162,165,189,173,157,155,193
+North Carolina,Drivers Involved in Fatal Crashes,Aged 21 and Over,1481,1556,1578,1568,1750,1797,1807,1869,1876,1918
+North Carolina,Drivers Involved in Fatal Crashes,Unknown Age,21,13,18,18,20,26,24,25,24,38
+North Carolina,Pedestrian Fatalities (C-10),,161,200,174,172,182,200,198,224,221,228
+North Carolina,Bicyclist and Other Cyclist Fatalities**** (C-11),,25,27,22,19,23,17,29,18,19,26
+North Carolina,Observed Seat Belt Use*** (B-1),,90,88,89,91,90,92,91,91,88,87
+North Dakota,Traffic Fatalities,Total (C-1),148,170,148,135,131,113,116,105,100,100
+North Dakota,Traffic Fatalities,Rural,132,146,138,116,122,106,103,91,84,76
+North Dakota,Traffic Fatalities,Urban,16,24,10,19,9,7,10,14,16,24
+North Dakota,Traffic Fatalities,Unknown,0,0,0,0,0,0,3,0,0,0
+North Dakota,Fatalities Per 100 Million VMT,Total (C-3),1.62,1.69,1.47,1.28,1.31,1.16,1.19,1.07,1.02,1.14
+North Dakota,Fatalities Per 100 Million VMT,Rural,1.95,1.91,1.84,1.47,1.67,1.55,1.52,1.32,1.22,1.29
+North Dakota,Fatalities Per 100 Million VMT,Urban,0.68,0.98,0.39,0.72,0.33,0.24,0.34,0.47,0.54,0.83
+North Dakota,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,114,131,112,105,100,77,80,76,69,61
+North Dakota,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,30,40,28,29,29,21,28,29,24,17
+North Dakota,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),76,89,66,71,63,48,42,37,33,39
+North Dakota,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,8,2,18,5,8,8,10,10,12,5
+North Dakota,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,63,72,61,55,51,52,45,28,42,35
+North Dakota,Speeding-Related Fatalities (C-6),,51,62,59,50,43,25,28,41,25,26
+North Dakota,Motorcyclist Fatalities,Total (C-7),14,16,9,10,8,12,13,16,11,17
+North Dakota,Motorcyclist Fatalities,Helmeted,4,4,5,1,5,2,3,5,4,3
+North Dakota,Motorcyclist Fatalities,Unhelmeted (C-8),10,11,3,9,3,10,10,11,7,14
+North Dakota,Motorcyclist Fatalities,Unknown,0,1,1,0,0,0,0,0,0,0
+North Dakota,Drivers Involved in Fatal Crashes,Total,187,218,213,176,166,138,147,144,126,135
+North Dakota,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,1,2,2,0,0,1,1,2
+North Dakota,Drivers Involved in Fatal Crashes,Aged 15-20,22,23,20,21,14,15,15,8,9,11
+North Dakota,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),22,23,21,23,16,15,15,9,10,13
+North Dakota,Drivers Involved in Fatal Crashes,Aged 21 and Over,165,195,192,152,150,123,131,135,116,122
+North Dakota,Drivers Involved in Fatal Crashes,Unknown Age,0,0,0,1,0,0,1,0,0,0
+North Dakota,Pedestrian Fatalities (C-10),,9,7,1,9,7,7,5,6,5,8
+North Dakota,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,0,1,3,1,3,2,2,2,1
+North Dakota,Observed Seat Belt Use*** (B-1),,77,81,78,81,80,83,79,83,84,84
 Ohio,Traffic Fatalities,Total (C-1),1017,1121,989,1006,1110,1132,1179,1068,1153,1230
 Ohio,Traffic Fatalities,Rural,661,640,513,496,492,508,552,471,530,471
 Ohio,Traffic Fatalities,Urban,356,481,471,506,610,614,620,580,617,727
@@ -987,32 +987,32 @@ Pennsylvania,Drivers Involved in Fatal Crashes,Unknown Age,13,22,11,22,20,33,26,
 Pennsylvania,Pedestrian Fatalities (C-10),,147,163,147,161,151,170,147,197,147,143
 Pennsylvania,Bicyclist and Other Cyclist Fatalities**** (C-11),,11,16,11,19,16,16,22,18,14,20
 Pennsylvania,Observed Seat Belt Use*** (B-1),,84,84,84,84,83,85,86,89,89,89
-Rhode Island ,Traffic Fatalities,Total (C-1),66,64,65,51,45,51,84,59,57,67
-Rhode Island ,Traffic Fatalities,Rural,7,10,5,6,7,10,19,16,3,12
-Rhode Island ,Traffic Fatalities,Urban,59,54,60,45,38,41,65,42,54,55
-Rhode Island ,Traffic Fatalities,Unknown,0,0,0,0,0,0,0,1,0,0
-Rhode Island ,Fatalities Per 100 Million VMT,Total (C-3),0.84,0.82,0.84,0.66,0.57,0.64,1.05,0.74,0.75,0.98
-Rhode Island ,Fatalities Per 100 Million VMT,Rural,0.8,1.19,0.55,0.68,0.79,1.1,2.1,1.75,0.33,1.55
-Rhode Island ,Fatalities Per 100 Million VMT,Urban,0.84,0.78,0.87,0.66,0.55,0.58,0.92,0.59,0.81,0.9
-Rhode Island ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,37,49,37,24,27,30,49,30,35,34
-Rhode Island ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,13,27,17,14,10,14,24,13,15,11
-Rhode Island ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),23,20,19,10,16,15,24,13,18,17
-Rhode Island ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,1,2,1,0,1,1,1,4,2,6
-Rhode Island ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,26,28,23,17,19,19,35,22,24,28
-Rhode Island ,Speeding-Related Fatalities (C-6),,23,30,17,13,20,23,41,30,36,20
-Rhode Island ,Motorcyclist Fatalities,Total (C-7),15,8,11,10,9,4,11,18,13,13
-Rhode Island ,Motorcyclist Fatalities,Helmeted,6,3,5,3,5,0,6,7,9,6
-Rhode Island ,Motorcyclist Fatalities,Unhelmeted (C-8),9,5,6,7,4,4,5,10,3,6
-Rhode Island ,Motorcyclist Fatalities,Unknown,0,0,0,0,0,0,0,1,1,1
-Rhode Island ,Drivers Involved in Fatal Crashes,Total,82,87,83,64,58,66,104,82,74,91
-Rhode Island ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,0,0,0,0,0,1,0,0
-Rhode Island ,Drivers Involved in Fatal Crashes,Aged 15-20,4,4,7,4,6,9,13,5,3,8
-Rhode Island ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),4,4,7,4,6,9,13,6,3,8
-Rhode Island ,Drivers Involved in Fatal Crashes,Aged 21 and Over,78,83,74,60,51,57,91,76,70,80
-Rhode Island ,Drivers Involved in Fatal Crashes,Unknown Age,0,0,2,0,1,0,0,0,1,3
-Rhode Island ,Pedestrian Fatalities (C-10),,14,5,14,14,8,14,21,7,8,17
-Rhode Island ,Bicyclist and Other Cyclist Fatalities**** (C-11),,0,2,3,0,0,2,2,1,0,2
-Rhode Island ,Observed Seat Belt Use*** (B-1),,80,78,86,87,87,88,88,89,88,88
+Rhode Island,Traffic Fatalities,Total (C-1),66,64,65,51,45,51,84,59,57,67
+Rhode Island,Traffic Fatalities,Rural,7,10,5,6,7,10,19,16,3,12
+Rhode Island,Traffic Fatalities,Urban,59,54,60,45,38,41,65,42,54,55
+Rhode Island,Traffic Fatalities,Unknown,0,0,0,0,0,0,0,1,0,0
+Rhode Island,Fatalities Per 100 Million VMT,Total (C-3),0.84,0.82,0.84,0.66,0.57,0.64,1.05,0.74,0.75,0.98
+Rhode Island,Fatalities Per 100 Million VMT,Rural,0.8,1.19,0.55,0.68,0.79,1.1,2.1,1.75,0.33,1.55
+Rhode Island,Fatalities Per 100 Million VMT,Urban,0.84,0.78,0.87,0.66,0.55,0.58,0.92,0.59,0.81,0.9
+Rhode Island,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,37,49,37,24,27,30,49,30,35,34
+Rhode Island,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,13,27,17,14,10,14,24,13,15,11
+Rhode Island,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),23,20,19,10,16,15,24,13,18,17
+Rhode Island,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,1,2,1,0,1,1,1,4,2,6
+Rhode Island,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,26,28,23,17,19,19,35,22,24,28
+Rhode Island,Speeding-Related Fatalities (C-6),,23,30,17,13,20,23,41,30,36,20
+Rhode Island,Motorcyclist Fatalities,Total (C-7),15,8,11,10,9,4,11,18,13,13
+Rhode Island,Motorcyclist Fatalities,Helmeted,6,3,5,3,5,0,6,7,9,6
+Rhode Island,Motorcyclist Fatalities,Unhelmeted (C-8),9,5,6,7,4,4,5,10,3,6
+Rhode Island,Motorcyclist Fatalities,Unknown,0,0,0,0,0,0,0,1,1,1
+Rhode Island,Drivers Involved in Fatal Crashes,Total,82,87,83,64,58,66,104,82,74,91
+Rhode Island,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,0,0,0,0,0,1,0,0
+Rhode Island,Drivers Involved in Fatal Crashes,Aged 15-20,4,4,7,4,6,9,13,5,3,8
+Rhode Island,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),4,4,7,4,6,9,13,6,3,8
+Rhode Island,Drivers Involved in Fatal Crashes,Aged 21 and Over,78,83,74,60,51,57,91,76,70,80
+Rhode Island,Drivers Involved in Fatal Crashes,Unknown Age,0,0,2,0,1,0,0,0,1,3
+Rhode Island,Pedestrian Fatalities (C-10),,14,5,14,14,8,14,21,7,8,17
+Rhode Island,Bicyclist and Other Cyclist Fatalities**** (C-11),,0,2,3,0,0,2,2,1,0,2
+Rhode Island,Observed Seat Belt Use*** (B-1),,80,78,86,87,87,88,88,89,88,88
 South Carolina,Traffic Fatalities,Total (C-1),828,863,767,823,979,1020,989,1036,1006,1064
 South Carolina,Traffic Fatalities,Rural,694,748,614,570,555,613,688,679,689,782
 South Carolina,Traffic Fatalities,Urban,134,115,153,253,424,407,301,357,317,282
@@ -1273,29 +1273,29 @@ Wisconsin,Drivers Involved in Fatal Crashes,Unknown Age,3,1,7,3,9,10,11,12,4,4
 Wisconsin,Pedestrian Fatalities (C-10),,57,45,37,45,57,51,56,56,59,50
 Wisconsin,Bicyclist and Other Cyclist Fatalities**** (C-11),,12,11,10,4,15,11,7,4,14,12
 Wisconsin,Observed Seat Belt Use*** (B-1),,79,80,82,85,86,88,89,89,90,89
-Wyoming ,Traffic Fatalities,Total (C-1),135,123,87,150,145,112,123,111,147,127
-Wyoming ,Traffic Fatalities,Rural,97,101,72,121,119,91,95,96,124,102
-Wyoming ,Traffic Fatalities,Urban,38,22,15,29,24,21,28,14,20,25
-Wyoming ,Traffic Fatalities,Unknown,0,0,0,0,2,0,0,1,3,0
-Wyoming ,Fatalities Per 100 Million VMT,Total (C-3),1.46,1.33,0.93,1.59,1.51,1.2,1.26,1.06,1.44,1.3
-Wyoming ,Fatalities Per 100 Million VMT,Rural,1.49,1.57,1.12,1.85,1.79,1.41,1.39,1.3,1.72,1.43
-Wyoming ,Fatalities Per 100 Million VMT,Urban,1.39,0.77,0.52,0.99,0.81,0.73,0.95,0.46,0.66,0.94
-Wyoming ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,101,94,66,118,107,71,87,76,103,90
-Wyoming ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,35,41,20,48,26,21,28,33,53,43
-Wyoming ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),63,50,41,67,79,48,55,37,47,44
-Wyoming ,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,3,3,5,3,2,2,4,6,3,3
-Wyoming ,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,38,41,25,48,55,34,46,36,33,44
-Wyoming ,Speeding-Related Fatalities (C-6),,51,41,40,48,46,28,37,38,49,42
-Wyoming ,Motorcyclist Fatalities,Total (C-7),16,12,9,16,24,24,17,15,15,19
-Wyoming ,Motorcyclist Fatalities,Helmeted,3,2,4,6,7,8,4,6,6,7
-Wyoming ,Motorcyclist Fatalities,Unhelmeted (C-8),13,10,5,10,17,16,13,9,8,10
-Wyoming ,Motorcyclist Fatalities,Unknown,0,0,0,0,0,0,0,0,1,2
-Wyoming ,Drivers Involved in Fatal Crashes,Total,163,161,106,187,191,153,145,137,182,173
-Wyoming ,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,0,1,0,1,1,1,1,0
-Wyoming ,Drivers Involved in Fatal Crashes,Aged 15-20,17,12,14,13,13,14,10,13,13,13
-Wyoming ,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),17,12,14,14,13,15,11,14,14,13
-Wyoming ,Drivers Involved in Fatal Crashes,Aged 21 and Over,145,147,91,173,178,138,134,123,168,159
-Wyoming ,Drivers Involved in Fatal Crashes,Unknown Age,1,2,1,0,0,0,0,0,0,1
-Wyoming ,Pedestrian Fatalities (C-10),,6,6,4,5,5,4,6,6,11,6
-Wyoming ,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,0,0,5,0,1,0,0,0,1
-Wyoming ,Observed Seat Belt Use*** (B-1),,83,77,82,79,80,81,85,86,78,83
+Wyoming,Traffic Fatalities,Total (C-1),135,123,87,150,145,112,123,111,147,127
+Wyoming,Traffic Fatalities,Rural,97,101,72,121,119,91,95,96,124,102
+Wyoming,Traffic Fatalities,Urban,38,22,15,29,24,21,28,14,20,25
+Wyoming,Traffic Fatalities,Unknown,0,0,0,0,2,0,0,1,3,0
+Wyoming,Fatalities Per 100 Million VMT,Total (C-3),1.46,1.33,0.93,1.59,1.51,1.2,1.26,1.06,1.44,1.3
+Wyoming,Fatalities Per 100 Million VMT,Rural,1.49,1.57,1.12,1.85,1.79,1.41,1.39,1.3,1.72,1.43
+Wyoming,Fatalities Per 100 Million VMT,Urban,1.39,0.77,0.52,0.99,0.81,0.73,0.95,0.46,0.66,0.94
+Wyoming,Passenger Vehicle Occupant Fatalities (All Seat Positions),Total,101,94,66,118,107,71,87,76,103,90
+Wyoming,Passenger Vehicle Occupant Fatalities (All Seat Positions),Restrained,35,41,20,48,26,21,28,33,53,43
+Wyoming,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unrestrained (C-4),63,50,41,67,79,48,55,37,47,44
+Wyoming,Passenger Vehicle Occupant Fatalities (All Seat Positions),Unknown,3,3,5,3,2,2,4,6,3,3
+Wyoming,Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5),,38,41,25,48,55,34,46,36,33,44
+Wyoming,Speeding-Related Fatalities (C-6),,51,41,40,48,46,28,37,38,49,42
+Wyoming,Motorcyclist Fatalities,Total (C-7),16,12,9,16,24,24,17,15,15,19
+Wyoming,Motorcyclist Fatalities,Helmeted,3,2,4,6,7,8,4,6,6,7
+Wyoming,Motorcyclist Fatalities,Unhelmeted (C-8),13,10,5,10,17,16,13,9,8,10
+Wyoming,Motorcyclist Fatalities,Unknown,0,0,0,0,0,0,0,0,1,2
+Wyoming,Drivers Involved in Fatal Crashes,Total,163,161,106,187,191,153,145,137,182,173
+Wyoming,Drivers Involved in Fatal Crashes,Aged Under 15,0,0,0,1,0,1,1,1,1,0
+Wyoming,Drivers Involved in Fatal Crashes,Aged 15-20,17,12,14,13,13,14,10,13,13,13
+Wyoming,Drivers Involved in Fatal Crashes,Aged Under 21 (C-9),17,12,14,14,13,15,11,14,14,13
+Wyoming,Drivers Involved in Fatal Crashes,Aged 21 and Over,145,147,91,173,178,138,134,123,168,159
+Wyoming,Drivers Involved in Fatal Crashes,Unknown Age,1,2,1,0,0,0,0,0,0,1
+Wyoming,Pedestrian Fatalities (C-10),,6,6,4,5,5,4,6,6,11,6
+Wyoming,Bicyclist and Other Cyclist Fatalities**** (C-11),,1,0,0,5,0,1,0,0,0,1
+Wyoming,Observed Seat Belt Use*** (B-1),,83,77,82,79,80,81,85,86,78,83
